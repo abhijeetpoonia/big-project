@@ -6,7 +6,7 @@ const port = 5000;
 
 // Database connection configuration
 const db = mysql.createConnection({
-  host: '13.208.109.201',
+  host: '13.208.213.103',
   user: 'admin',
   password: 'mypassword',
   database: 'webappdb',
